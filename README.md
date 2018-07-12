@@ -1,2 +1,0 @@
-# second_repo
-
